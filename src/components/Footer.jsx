@@ -12,9 +12,6 @@ const Footer = () => {
             <a href="https://github.com/Rhckjf">
                 <i className="ri-github-fill ri-2x"></i>
             </a>
-             <a href="#">
-                <i className="ri-instagram-fill ri-2x"></i>
-            </a>
              <a href="https://www.linkedin.com/in/ihsan-ramadhan-415b7a307/">
                 <i className="ri-linkedin-fill ri-2x"></i>
             </a>
